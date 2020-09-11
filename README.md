@@ -1,4 +1,4 @@
-### Hi there 👋
+![Thinking](https://github.com/skunz42/skunz42/blob/master/coop.jpg)
 
 <!--
 **skunz42/skunz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
