@@ -1,5 +1,3 @@
-### Back to school!
-
 ![Thinking](https://github.com/skunz42/skunz42/blob/master/coop.jpg)
 
 <!--
